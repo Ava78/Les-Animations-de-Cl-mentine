@@ -1,0 +1,100 @@
+#titre
+
+{
+	margin-top: -85px;
+	margin-left: 110px;
+	margin-bottom: 50px;
+}
+
+h2
+{
+	font-size: 250%;
+	font-family: 'Indie Flower', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+h4
+{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size: 200%;
+}
+
+ul 
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 110%;
+
+}
+.panel-default
+{
+	/*background-color: white;
+	border-radius: 25px;
+	background-color: transparent;
+	opacity: 0,5;*/
+
+}
+
+.panel-body .row
+{
+	/*background: transparent;
+	border-radius: 25px;
+	opacity: 0,5;*/
+}
+
+p 
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 150%; 
+	
+}
+
+
+footer
+{
+	background-color: rgba(165,202,227,0.7);
+
+}
+
+#facebook
+{
+	float: top;
+	margin-top: -45px;
+}
+#contact
+{
+	text-align: center;
+}
+
+body{
+    background: url('/home/apprenti/Bureau/Les Animations de Clémentine/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 12%; 
+   }
+
+#clem1
+{
+	float : right;
+	margin-right: 50px;
+}
+
+.panel .panel-body.row
+{
+	background-color: rgba(165,202,227,0.5);
+}
+
+
+.row
+{
+ /*order-radius: 50px;*/
+}
+
+.theme
+{
+	height: 500px;
+	border-radius: 50px;
+	opacity: 0.8;
+}
